@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="home">
+  <div class="song-title">
+    {{ page.title }}
+  </div>
+  <div class="song-date">
+    {{ page.date | date_to_string }}
+  </div>
+  <div class="lyrics">
+    {{ content }}
+  </div>
+</div>
+</html>

@@ -1,0 +1,48 @@
+---
+layout: song
+title:  "Jenius"
+date:   1997-02-06 15:19:28
+categories: finished artstar
+authors: shaun_ellis kathryn_okeson
+---
+
+[attribution]
+by Shaun Ellis and Kathryn Okeson
+
+[verse]
+C - - - / C - F - / F - C - / C - G - /
+C - - - / Am - F - / F - - - /
+
+[chorus] - note ¾ time signature change
+C - - / F - - / G - - / C - - /
+C - - / F - - / G - - / C - - / ... hang on C in 4/4 until the singing starts again...
+x3
+------------------------------------------------------------
+If you wanna leave New Jersey
+There's a toll you'll have to pay
+But it'll cost you more than that
+If you want to stay
+There's something in the air
+Cause geniuses live there
+
+[chorus]
+Einstein and Edison
+Springsteen and me x 2
+
+If you're from New Jersey
+well you're gonna have to be
+content with 201 or 609 or 973
+But if you're feeling blue
+Cause you don't have 212
+
+[chorus]
+Think of Einstein and Edison
+Springsteen and me x 2
+
+Be nice to New Jersey
+Our tomatoes are the best
+We're God's chosen people
+She sure puts us to the test
+But there's something in the air
+Cause the girls all have big hair
+So did Einstein so be kind to New Jersey, yeah!
